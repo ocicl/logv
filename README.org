@@ -1,0 +1,9 @@
+* logv
+
+A cognitively lightweight logging utility for Common Lisp.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/nallen05/logv.git |
+| commit  | 2a6e76f                                  |
+| systems | logv                                     |
+|---------+------------------------------------------|
